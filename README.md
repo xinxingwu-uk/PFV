@@ -1,1 +1,3 @@
+# Alcohol Intake Affects AD and LATE: A Telltale Lifestyle from Two Large-Scale Datasets (AMIA 2022)
+
 The codes will come soon...
